@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @DivyanshIndia
-- 👀 I’m interested in Web Development and python programming
-- 🌱 I’m currently learning Javascript and CSS 
-- 💞️ I’m looking to collaborate on Reactjs projects
+- Currently a MERN developer
 
 
 <!---
