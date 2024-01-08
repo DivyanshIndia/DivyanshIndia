@@ -1,1 +1,1 @@
-## Namastey, <img src="https://media.giphy.com/media/3oz8xDz2aBhmNOLwRy/giphy.gif" /> , I am Divyansh Bhatt
+## Namastey, <img src="https://tenor.com/XsLe.gif" width="30px" /> , I am Divyansh Bhatt
