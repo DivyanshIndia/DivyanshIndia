@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I have to learning frontend development for more than one and half years and now i am jumping onto backend.
+I have been learning frontend development for more than one and half years and now i am jumping into backend.
 
 * 🌍  I'm based in Dehradun
 * ✉️  You can contact me at [divyanshbhatt046@gmail.com](mailto:divyanshbhatt046@gmail.com)
