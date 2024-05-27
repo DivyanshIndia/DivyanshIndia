@@ -8,8 +8,7 @@ I have been learning frontend development for more than one and half years and n
 
 * 🌍  I'm based in Dehradun
 * ✉️  You can contact me at [divyanshbhatt046@gmail.com](mailto:divyanshbhatt046@gmail.com)
-* 🚀  Currently Working as Reactjs Developer 
-* 🧠  I'm learning Express Js
+* 🌻  FullStack Developer
 
 ### Skills
 
