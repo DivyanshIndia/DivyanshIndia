@@ -3,11 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 MERN stack Developer
 -------------
-
-As of now a MERN stack developer.
-
-* 🌍  I'm based in Dehradun
-* ✉️  You can contact me at [divyanshbhatt046@gmail.com](mailto:divyanshbhatt046@gmail.com)
+* ✉️  [divyanshbhatt046@gmail.com](mailto:divyanshbhatt046@gmail.com)
 * 🌻  FullStack Developer
 
 ### Skills
