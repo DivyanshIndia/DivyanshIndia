@@ -1,29 +1,82 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Divyansh Bhatt
-======================================================================================================================================
+# DIVYANSH BHATT
 
-MERN stack Developer
--------------
-* ✉️  [divyanshbhatt046@gmail.com](mailto:divyanshbhatt046@gmail.com)
-* 🌻  FullStack Developer
+8755346738 | divyanshbhatt46@gmail.com | linkedin.com/in/divyanshbhatt0 | github.com/DivyanshIndia
 
-### Skills
+## PROFESSIONAL SUMMARY
 
+Dedicated MERN stack developer with experience in full-stack web application and mobile app development. Skilled in React.js, Next.js, Node.js, and MongoDB, with a strong focus on clean code practices and performance optimization. Proven track record in developing trading platforms and implementing monitoring solutions.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+## SKILLS
 
+- Programming Languages: JavaScript, Python
+- Frontend: React.js, Next.js, HTML5, CSS3, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Mobile Development: React Native, Expo
+- DevOps & Monitoring: Git, GitHub, Loki, Grafana
+- Other: RESTful API, JWT, SEO optimization, Responsive Design
 
-### Socials
+## PROFESSIONAL EXPERIENCE
 
-<p align="left"> <a href="https://www.github.com/DivyanshIndia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/divyanshbhatt0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Software Developer | PIP Trade, Delhi | APR 2024 - PRESENT
+- Led frontend development for PIP Trade Forex trading platform using React.js and Next.js
+- Contributed 30% to backend development using Node.js and MongoDB
+- Developed admin web application for client and platform management
+- Implemented Loki and Grafana for backend monitoring and performance optimization
+- Enhanced code quality through clean coding practices and effective debugging
+- Utilized MERN stack technologies for full-stack development
 
-### Badges
+### Web Developer Intern | Cling MultiSolutions, Remote | OCT 2023 - MAR 2024
+- Developed responsive web pages using modern frontend technologies
+- Assisted in R&D for new project requirements
+- Contributed to two major projects, enhancing web development and teamwork skills
 
-<b>My GitHub Stats</b>
+### App Developer Intern | Clinical AI Assistant, Remote | DEC 2023 - FEB 2024
+- Developed mobile app screens using React Native
+- Led social media app development for individuals with Autism Spectrum Disorder
+- Contributed to official company website, expanding web development expertise
 
-<a href="http://www.github.com/DivyanshIndia"><img src="https://github-readme-stats.vercel.app/api?username=DivyanshIndia&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="DivyanshIndia's GitHub stats" /></a>
+### Network Administration Intern | Aryabhatta Research Institute of Observational Sciences, Nainital | JUL 2022 - AUG 2022
+- Gained hands-on experience with firewall configuration and management
+- Created subnets for network optimization
 
-<a href="http://www.github.com/DivyanshIndia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshIndia&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+## PROJECTS
 
-<a href="https://github.com/DivyanshIndia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshIndia&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+1. **PIP Trade Forex Trading Platform**
+   - Technologies: React.js, Next.js, Node.js, MongoDB, Loki, Grafana
+   - Developed comprehensive forex trading platform with responsive UI and robust backend
+   - Implemented admin panel and integrated performance monitoring tools
+
+2. **Multi-Industry Web Templates - Cling MultiSolutions Pvt Ltd**
+   - Technologies: Tailwind CSS, JSON, Next.js
+   - Designed responsive templates for portfolio, healthcare, and real estate sectors
+   - Implemented SEO best practices and ensured cross-browser compatibility
+
+3. **Social Media Platform for Individuals with ASD - Clinical AI Assistant**
+   - Technologies: React Native, Node.js, Express.js, MongoDB, Expo, JWT
+   - Developed specialized platform with real-time messaging and custom accessibility features
+   - Implemented secure JWT authentication
+
+4. **Text Summarization Tool**
+   - Technologies: React.js, React Hooks, CSS3, HTML5, OpenAI API
+   - Created tool for generating concise summaries from extensive documents
+   - Integrated Natural Language Processing capabilities via OpenAI API
+
+## EDUCATION
+
+**Bachelor of Computer Science and Engineering**  
+Govind Ballabh Pant Institute of Engineering and Technology, Pauri Garhwal  
+Graduation Date: June 2023 | Percentage: 80%
+
+**Diploma in Computer Science and Engineering**  
+Government Polytechnic Pithuwala, Dehradun  
+Graduation Date: October 2020 | Percentage: 80%
+
+## CERTIFICATIONS
+
+- React - The Complete Guide, Udemy, 2023
+- 100 Days of Code: The Complete Python Pro Bootcamp for 2023, Udemy, 2023
+
+## LANGUAGES
+
+English, Hindi
